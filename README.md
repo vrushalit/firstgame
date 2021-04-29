@@ -2,8 +2,6 @@
 
 Using pygame module in python to make this game
 
-This is the code base for the pygame tutorials posted on techwithtim's YouTube channel.
-
 You can check out the tutorial playlist here: https://www.youtube.com/watch?v=i6xMBig-pP4&t=1s
 
 # reference
